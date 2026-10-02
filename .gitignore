@@ -1,5 +1,9 @@
-# Ignore JavaScript, HTML, and CSS files
+# README and media only: the extension's code is never committed here.
 *.js
+*.mjs
+*.ts
 *.html
 *.css
 *.json
+*.zip
+*.crx
